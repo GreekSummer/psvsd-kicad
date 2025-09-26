@@ -1,6 +1,6 @@
 # PSVSD KiCad source
 
-This is a fork of [Yinfanlu's PSVSD adapter](https://github.com/yifanlu/psvsd/). It's main purpose is to adapt the original Eagle Autodesk files to KiCad, which is open source and free. 
+This is a fork of [Yinfanlu's PSVSD adapter](https://github.com/yifanlu/psvsd/). Its main purpose is to adapt the original Eagle Autodesk files to KiCad, which is open source and free. 
 
 The conversion was done using KiCad's own importer. The result was mostly complete with various issues that had to be manually corrected. The result has not yet been produced, so assume there are still issues.
 
